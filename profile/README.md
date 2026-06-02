@@ -16,4 +16,4 @@ Nossa equipe domina as ferramentas que movem a web moderna:
 * **Infraestrutura e Geoespacial:** AWS, Hostinger, Mapbox, Google Maps APIs, Docker.
 
 ## 📦 Produtos em Destaque
-* 🏢 **[PropOS]**: O Hub de transações P2P definitivo para o mercado imobiliário brasileiro.
+* 🏢 **[yrn house]**: O Hub de transações P2P definitivo para o mercado imobiliário brasileiro.
